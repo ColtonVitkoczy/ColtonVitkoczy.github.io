@@ -15,8 +15,6 @@ I am also a Graduate Research Assistant with Portland State University's Populat
 
 My particular interests lie in how AI models learn to reconstruct images and recover information from sparse or incomplete matrices. I am also interested in developing computationally efficient learning algorithms and studying the statistical properties of dimension-reduction methods.
 
-This website is where I showcase my work in artificial intelligence, statistics, and optimization, along with the research and technical projects I am developing.
-
 ## M.S. Research
 
 ### Statistics Thesis Work
