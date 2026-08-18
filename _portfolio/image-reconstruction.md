@@ -15,6 +15,8 @@ The project combines neural-network training in PyTorch with proximal-gradient o
 
 ## Results
 
+![Additional image-reconstruction output](/images/image-reconstruction-results2.png)
+
+
 ![Image-reconstruction output](/images/image-reconstruction-results.png)
 
-![Additional image-reconstruction output](/images/image-reconstruction-results2.png)
