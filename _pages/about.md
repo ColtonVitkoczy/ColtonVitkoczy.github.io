@@ -19,7 +19,7 @@ This website is where I showcase my work in artificial intelligence, statistics,
 
 ## M.S. Research
 
-### Statistics
+### Statistics Thesis Work
 
 My current research direction concerns sufficient dimension reduction and semiparametric estimation. I am interested in methods for reducing high-dimensional predictors while preserving the information relevant to a response, as well as the role of constrained estimation and efficient-score methods in constructing statistically rigorous estimators.
 
@@ -29,7 +29,7 @@ My current research direction concerns sufficient dimension reduction and semipa
 
 - [Ge Zhao, Yanyuan Ma, and Wenbin Lu, “Efficient Estimation for Dimension Reduction with Censored Survival Data”](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n3104.pdf)
 
-### Mathematics
+### Mathematics Thesis Work
 
 My current research direction concerns learned proximal-gradient methods for sparse inverse problems. I am exploring how proximal-gradient iterations can be represented as a recurrent neural architecture, with a learned operator replacing the conventional proximal mapping, while studying the conditions under which convergence and regularization properties can still be established.
 
