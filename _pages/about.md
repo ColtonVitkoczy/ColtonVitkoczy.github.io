@@ -9,10 +9,20 @@ redirect_from:
 
 Hi! I'm Colton. Welcome to my website.
 
-I am currently pursuing M.S. degrees in Statistics and Mathematics at Portland State University. My interests lie at the intersection of statistical learning, mathematical optimization, and artificial intelligence, particularly representation learning, proximal and gradient-based methods, and kernel methods.
+I am currently pursuing separate M.S. degrees in Statistics and Mathematics at Portland State University. My interests lie at the intersection of statistical learning, mathematical optimization, and artificial intelligence. 
 
-I am also a Graduate Research Assistant with Portland State University's Population Research Center, where I contributed to the [Oregon Population Forecast Program's](https://www.pdx.edu/population-research/population-forecasts) published 2026 county forecast reports. My work involved reviewing and debugging automated R Markdown reports and validating their data outputs, tables, figures, and generated narrative text.
+I am also a Graduate Research Assistant with Portland State University's Population Research Center, where I contributed to the [Oregon Population Forecast Program's](https://www.pdx.edu/population-research/population-forecasts) published 2026 county forecast reports. 
 
-My academic background is primarily in mathematics and statistics, which I have complemented with hands-on experience developing and analyzing machine learning models in Python. I am particularly interested in how mathematical structure can be used to make learning algorithms more computationally efficient, interpretable, and theoretically well grounded.
+My academic background combines statistical theory with mathematical analysis and optimization. I am interested in applying this background to artificial intelligence and machine learning, particularly to understand how models learn to reconstruct images and recover information from sparse or incomplete matrices. I am also interested in developing computationally efficient learning algorithms and studying the statistical properties of dimension-reduction methods.
 
 This website is where I showcase my work in artificial intelligence, statistics, and optimization, along with the research and technical projects I am developing.
+
+## M.S. Research
+
+### Statistics
+
+My current research direction concerns sufficient dimension reduction and semiparametric estimation. I am interested in methods for reducing high-dimensional predictors while preserving the information relevant to a response, as well as the role of constrained estimation and efficient-score methods in constructing statistically rigorous estimators.
+
+### Mathematics
+
+My current research direction concerns learned proximal-gradient methods for sparse inverse problems. I am exploring how proximal-gradient iterations can be represented as a recurrent neural architecture, with a learned operator replacing the conventional proximal mapping, while studying the conditions under which convergence and regularization properties can still be established.
