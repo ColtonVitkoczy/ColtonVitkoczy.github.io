@@ -13,7 +13,7 @@ I am currently pursuing separate M.S. degrees in Statistics and Mathematics at P
 
 I am also a Graduate Research Assistant with Portland State University's Population Research Center, where I contributed to the [Oregon Population Forecast Program's](https://www.pdx.edu/population-research/population-forecasts) published 2026 county forecast reports. 
 
-My academic background combines statistical theory with mathematical analysis and optimization. I am interested in applying this background to artificial intelligence and machine learning, particularly to understand how models learn to reconstruct images and recover information from sparse or incomplete matrices. I am also interested in developing computationally efficient learning algorithms and studying the statistical properties of dimension-reduction methods.
+I am interested in artificial intelligence and machine learning, particularly in how models learn to reconstruct images and recover information from sparse or incomplete matrices. Along with developing computationally efficient learning algorithms and studying the statistical properties of dimension-reduction methods.
 
 This website is where I showcase my work in artificial intelligence, statistics, and optimization, along with the research and technical projects I am developing.
 
