@@ -21,7 +21,7 @@ excerpt: |
   - Lake: [Report](https://drive.google.com/file/d/1yJj2jNTk8H2LIzxtcpvJAgrD_PU1YP-S/view?usp=drive_link) / [Tables (xlsx)](https://docs.google.com/spreadsheets/d/1gixAFphjjIQvL_NiiFttm8ieltWC0Dtf/edit?usp=drive_link&ouid=108753402828548889346&rtpof=true&sd=true)
   - Crook: [Report](https://drive.google.com/file/d/1cmM2fiSgSUmSepcbUhQlEWmQQ0bJSgsS/view?usp=drive_link) / [Tables (xlsx)](https://docs.google.com/spreadsheets/d/1SZ8Xm5IIb78eNCJpsSU7B8MFY1UPhLm4/edit?usp=drive_link&ouid=108753402828548889346&rtpof=true&sd=true)
   - Harney: [Report](https://drive.google.com/file/d/1JnluKkH_Zfw5-JhVbI-2HM3XEXHXjbIv/view?usp=drive_link) / [Tables (xlsx)](https://docs.google.com/spreadsheets/d/1G_XePh8N2j0vVcZcqtVGgrwqF8qKUmKD/edit?usp=drive_link&ouid=108753402828548889346&rtpof=true&sd=true)
-citation: 'Portland State University Population Research Center. (2026). "Oregon Population Forecast Program: Region 1 Population Forecast Reports." Oregon Population Forecast Program.'
+
 ---
 
 ## Results [Final June 2026]
