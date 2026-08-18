@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Colton Vitkoczy"
 title_separator          : "-"
 name                     : &name "Colton Vitkoczy"
-description              : &description "Mathematics and statistics graduate student working in machine learning, optimization, and data science."
+description              : &description "Mathematics and statistics graduate student at Portland State University"
 url                      : "https://coltonvitkoczy.github.io"
 baseurl                  : ""
 repository               : "ColtonVitkoczy/ColtonVitkoczy.github.io"
