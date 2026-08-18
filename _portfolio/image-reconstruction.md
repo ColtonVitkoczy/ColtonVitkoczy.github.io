@@ -1,8 +1,10 @@
 ---
 title: "Deep Learning for Image Reconstruction from Incomplete Data"
-excerpt: "A Python and PyTorch project for reconstructing incomplete or corrupted images using neural networks and proximal-gradient optimization."
+excerpt: "A Python and PyTorch project for reconstructing incomplete or corrupted images."
 collection: portfolio
 permalink: /portfolio/image-reconstruction/
+header:
+  teaser: image-reconstruction-results.png
 ---
 
 [View the GitHub repository](https://github.com/ColtonVitkoczy/sparse-image-reconstruction){: .btn .btn--primary}
