@@ -23,6 +23,18 @@ This website is where I showcase my work in artificial intelligence, statistics,
 
 My current research direction concerns sufficient dimension reduction and semiparametric estimation. I am interested in methods for reducing high-dimensional predictors while preserving the information relevant to a response, as well as the role of constrained estimation and efficient-score methods in constructing statistically rigorous estimators.
 
+**Reference Papers**
+
+- [Ge Zhao, Yanyuan Ma, and Yaqi Cao, “Improved Risk Prediction via Cross-Domain Calibration in a Retrospective Case-Control Study”](https://onlinelibrary.wiley.com/doi/10.1002/cjs.70058)
+
+- [Ge Zhao, Yanyuan Ma, and Wenbin Lu, “Efficient Estimation for Dimension Reduction with Censored Survival Data”](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n3104.pdf)
+
 ### Mathematics
 
 My current research direction concerns learned proximal-gradient methods for sparse inverse problems. I am exploring how proximal-gradient iterations can be represented as a recurrent neural architecture, with a learned operator replacing the conventional proximal mapping, while studying the conditions under which convergence and regularization properties can still be established.
+
+**Reference Papers**
+
+- [Amir Beck and Marc Teboulle, “A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems”](https://epubs.siam.org/doi/10.1137/080716542)
+
+- [Morteza Mardani et al., “Neural Proximal Gradient Descent for Compressive Imaging”](https://papers.neurips.cc/paper/8166-neural-proximal-gradient-descent-for-compressive-imaging.pdf)
