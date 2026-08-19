@@ -21,9 +21,7 @@ repository               : "ColtonVitkoczy/ColtonVitkoczy.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  author :
-  avatar :
+  avatar : "profile.png"
   name : "Colton Vitkoczy"
   pronouns :
   bio : "Mathematics and statistics graduate student at Portland State University."
