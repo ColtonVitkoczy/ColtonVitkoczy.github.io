@@ -83,9 +83,10 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
-
-      {% include post_pagination.html %}
+      {% unless page.collection == 'portfolio' %}
+        {% if page.share %}{% include social-share.html %}{% endif %}
+        {% include post_pagination.html %}
+      {% endunless %}
     </div>
 
     {% if site.comments.provider and page.comments %}
