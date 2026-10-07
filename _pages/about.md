@@ -9,11 +9,11 @@ redirect_from:
 
 Hi! I'm Colton. Welcome to my website.
 
-I am currently pursuing separate M.S. degrees in Statistics and Mathematics at Portland State University. My interests lie at the intersection of statistical learning, mathematical optimization, and artificial intelligence.
+I am currently pursuing separate M.S. degrees in Statistics and Mathematics at Portland State University. 
+
+My particular interests currently lie in how AI models learn to reconstruct images and recover information from sparse or incomplete matrices. I am also interested in developing computationally efficient learning algorithms and studying the statistical properties of dimension-reduction methods.
 
 I am also a Graduate Research Assistant with Portland State University's Population Research Center, where I contributed to the [Oregon Population Forecast Program's published 2026 county forecast reports](https://www.pdx.edu/population-research/population-forecasts).
-
-My particular interests lie in how AI models learn to reconstruct images and recover information from sparse or incomplete matrices. I am also interested in developing computationally efficient learning algorithms and studying the statistical properties of dimension-reduction methods.
 
 ## M.S. Research
 
